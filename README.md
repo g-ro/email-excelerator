@@ -1,5 +1,5 @@
 # Email-Excelerator
-###A Microsoft Excel based bulk email generator and sender
+### A Microsoft Excel based bulk email generator and sender
 
 This excel based bulk email generator comes handy when you wish to generate and send an personalized email with attachments to a bunch of people.
 However,
