@@ -8,7 +8,7 @@ However,
 * Cannot install any software on your computer (admin / corporate restriction)
 
 Prerequisites
-* Microsoft Office 2016 or above (with minor change in reference this could be run for lower versions)
+* Microsoft Office 2016 or above. (For version 2010, go to branch 2010-compatible)
 * Microsoft Outlook must have active connection
 
 The Workbook has 3 main worksheets - EmailTemplate, EmailContentRecords and LOG. Don't delete or change the name of these worksheets.
