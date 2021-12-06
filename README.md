@@ -19,3 +19,6 @@ Start with worksheet EmailTemplate, in the provided form, fill in Subject and Bo
 Move to worksheet EmailContentRecords. First row should have headers, subsequent rows are assumed to have data for mails [one row per email]. First column with header 'Recipient' is a must. In the data rows it should have email id of recipients and is expected to have values in all valid (filled) data rows. In case you have selected CC and / or BCC in the form, columns with headers 'CopyTo' and 'BCopyTo' must be available with data in data rows. Similarly for file attachments a column 'FileName' must be present. In case the Subject and Body have tokens that needs to be substituted with specific values per email, each token should have placeholders $token$ in the form and in here, a column in the header should have 'token' as an entry and data in data rows. While generating emails, tool will try to replace $tokens$ with values from each valid data row.
 
 ##### Complete the setup and hit the 'Generate & Send' button.
+
+
+*Should you wish to see the VBA code the password is - Email!Post*
